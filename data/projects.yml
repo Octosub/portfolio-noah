@@ -1,34 +1,14 @@
 - name: CIET - Can I Eat This
-  description: Decent description of the app
+  description: An application for foreign vegans/vegetarians in Japan to scan food products and check if it meets their dietary restricitons.
   image: projects/placeholder.png
-  url: https://www.google.com
-  github: https://www.github.com
+  url: www.ciet.lol
+  github: https://github.com/Octosub/CIET
   online: true
 
-- name: Movie Watchlist
-  description: Decent description of the app
+- name: Power UP!
+  description: A marketplace app where users can rent special powers from eachother.
   image: projects/placeholder.png
-  url: https://www.google.com
-  github: https://www.github.com
-  online: true
-
-- name: Airbnb
-  description: Decent description of the app
-  image: projects/placeholder.png
-  url: https://www.google.com
-  github: https://www.github.com
-  online: true
-
-- name: Final project
-  description: Decent description of the app
-  image: projects/placeholder.png
-  url: https://www.google.com
-  github: https://www.github.com
-  online: true
-
-- name: Yelp
-  description: Decent description of the app
-  image: projects/placeholder.png
-  url: https://www.google.com
-  github: https://www.github.com
+  url:
+  github: https://github.com/Octosub/power-up
   online: false
+
