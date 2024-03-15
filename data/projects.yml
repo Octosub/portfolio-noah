@@ -1,9 +1,16 @@
 - name: CIET - Can I Eat This
   description: An application for foreign vegans/vegetarians in Japan to scan food products and check if it meets their dietary restricitons.
-  image: projects/placeholder.png
+  image: projects/CIET1.jpg
   url: www.ciet.lol
   github: https://github.com/Octosub/CIET
   online: true
+
+- name: Power UP!
+  description: A marketplace app where users can rent special powers from eachother.
+  image: projects/PowerUp1.jpg
+  url:
+  github: https://github.com/Octosub/power-up
+  online: false
 
 - name: Power UP!
   description: A marketplace app where users can rent special powers from eachother.
@@ -11,4 +18,3 @@
   url:
   github: https://github.com/Octosub/power-up
   online: false
-
