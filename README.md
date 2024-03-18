@@ -2,7 +2,8 @@
 
 This is my portfolio to showcase projects that I've worked on.
 
-_DROP SCREENSHOT HERE_
+![image](https://github.com/Octosub/portfolio-noah/assets/135783511/4f451cf9-4d46-4879-8f73-e53b8be6d11f)
+
 <br>   
 
 ## Built With
