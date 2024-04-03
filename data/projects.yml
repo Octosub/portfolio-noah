@@ -5,9 +5,23 @@
   github: https://github.com/Octosub/CIET
   online: true
 
+- name: Quanki
+  description: With Quanki you can easily create a quiz from a pdf file of your notes, lecture slides, essays, academic texts etc..
+  image: projects/Quanki.png
+  url:
+  github: https://github.com/flxlng/quiz-creaitor-react
+  online: false
+
 - name: Power UP!
   description: A marketplace app where users can rent special powers from eachother.
   image: projects/PowerUp1.png
   url:
   github: https://github.com/Octosub/power-up
+  online: false
+
+- name: Builders Weekend Hackathon Project
+  description: A program wto create a trailer out of still images.
+  image: projects/BuildersWeekend.png
+  url:
+  github: https://github.com/Octosub/builders_weekend
   online: false
