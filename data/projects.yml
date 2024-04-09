@@ -20,7 +20,7 @@
   online: false
 
 - name: Builders Weekend Hackathon Project
-  description: A program wto create a trailer out of still images.
+  description: A program to create a trailer out of still images.
   image: projects/BuildersWeekend.png
   url:
   github: https://github.com/Octosub/builders_weekend
