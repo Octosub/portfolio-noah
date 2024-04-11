@@ -8,9 +8,9 @@
 - name: Quanki
   description: With Quanki you can easily create a quiz from a pdf file of your notes, lecture slides, essays, academic texts etc..
   image: projects/Quanki.png
-  url:
+  url: https://quanki.lol/
   github: https://github.com/flxlng/quiz-creaitor-react
-  online: false
+  online: true
 
 - name: Power UP!
   description: A marketplace app where users can rent special powers from eachother.
