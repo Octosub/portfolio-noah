@@ -15,9 +15,9 @@
 - name: Power UP!
   description: A marketplace app where users can rent special powers from eachother.
   image: projects/PowerUp1.png
-  url:
+  url: https://www.power-up.lol/
   github: https://github.com/Octosub/power-up
-  online: false
+  online: true
 
 - name: Builders Weekend Hackathon Project
   description: A program to create a trailer out of still images.
